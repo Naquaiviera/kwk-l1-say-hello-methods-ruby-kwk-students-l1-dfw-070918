@@ -1,1 +1,1 @@
-def say_Hello(your_name, my_name = ""
+def say_Hello(your_name, my_name = "g"
